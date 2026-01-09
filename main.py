@@ -1,7 +1,5 @@
 """
 Neural Network for Matrix to Complex Number Mapping
-Author: [Your Name]
-Date: [Date]
 """
 
 import os
@@ -843,4 +841,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
