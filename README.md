@@ -37,8 +37,12 @@ matrix-to-complex-mapping
 │ └── last\_random\_tune\_model.pth
 
 └── outputs/
+
 ├── result.csv
+
 ├── training\_loss\_curve.png
+
 └── model\_test\_results.png
+
 
 
