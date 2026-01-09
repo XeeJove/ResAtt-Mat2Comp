@@ -14,19 +14,31 @@ This project implements a Residual Convolutional Neural Network (CNN) with atten
 
 ## Project Structure
 
-matrix-to-complex-mapping/
+matrix-to-complex-mapping
+
 ├── README.md
+
 ├── requirements.txt
+
 ├── main.py
-├── data/
+
+├── data
+
 │ ├── all\_list\_c.txt
+
 │ ├── all\_matrix.txt
+
 │ └── s\_re\_c.txt
-├── models/
+
+├── models
+
 │ ├── best\_random\_tune\_model.pth
+
 │ └── last\_random\_tune\_model.pth
+
 └── outputs/
 ├── result.csv
 ├── training\_loss\_curve.png
 └── model\_test\_results.png
+
 
